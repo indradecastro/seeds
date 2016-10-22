@@ -5,7 +5,7 @@ To run the app just run the following code in R:
 library(shiny)  
 runGitHub("seeds", "indradecastro")
 
-The app allow the user to choose the seed species ("Hordeum", "Anthyllis", "Cistus", "other") and view several plots showing seedling emergence grouped by several factors:
+The app allows the user to choose a seed species ("Hordeum", "Anthyllis", "Cistus", "other") and view several plots showing seedling emergence grouped by several factors:
 
 - histogram showing frecuency of seedlings per microcosm
 - seedling emergence by traditional groups of scarabs (endocoprid, paracoprid, telecoprid and 3 control treatments)
