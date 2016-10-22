@@ -3,7 +3,7 @@ To run the app just run the following code in R:
 
 > \# install.packages("shiny")  
 library(shiny)  
-runGitHub("repo", "indradecastro")
+runGitHub("seeds", "indradecastro")
 
 The app allow the user to choose the seed species ("Hordeum", "Anthyllis", "Cistus", "other") and view several plots showing seedling emergence grouped by several factors:
 
